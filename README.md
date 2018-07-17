@@ -1,7 +1,7 @@
 # README
 # Ruby on Rails Tutorial
 
-## "hello, world! Test test"
+## "hello, world! Test test test tst"
 
 This is the first application for the
 [*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
